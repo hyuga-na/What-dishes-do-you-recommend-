@@ -29,4 +29,6 @@ Well, the day I post this is Monday.
 7. Sleeping
 8. Join the Atcoder contests
 9. Fishing
-10. Eating delicious food
+10. Playing video games
+11. Eating delicious food
+
