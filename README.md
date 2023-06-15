@@ -31,4 +31,4 @@ Well, the day I post this is Monday.
 9. Fishing
 10. Playing video games
 11. Eating delicious food
-
+12. Painting
